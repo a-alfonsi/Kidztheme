@@ -3,6 +3,17 @@
     "displayName": "Kidz Theme",
     "description": "Kidz color theme",
     "version": "0.0.1",
+    "publisher": "Alisinterrail",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/a-alfonsi/Kidztheme"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "pastel",
+        "python"
+    ],
     "engines": {
         "vscode": "^1.66.0"
     },
