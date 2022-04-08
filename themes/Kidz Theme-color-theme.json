@@ -122,7 +122,8 @@
 	"semanticHighlighting": true,
 	"semanticTokenColors": {
         "variable": "#ffffff",
-        // "property": "#ffffff",
+        "property": "#F6DDCD",
+        "property.declaration": "#ffffff",
         "*.typeHint": {
           "foreground": "#bbbbbb",
           "fontStyle": "italic"
@@ -237,7 +238,7 @@
 			"name": "Attributes",
 			"scope": [
 				"meta.attribute",
-				"variable.other.property"
+				// "variable.other.property"
 				// "*.typeHint",
 			],
 			"settings": {
