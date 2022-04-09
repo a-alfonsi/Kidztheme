@@ -468,7 +468,7 @@
 			"name": "Builtins",
 			"scope": [
 				"support.function.builtin",
-				"class.builtin",
+				// "class.builtin",
 				"function.builtin"
 			],
 			"settings": {
