@@ -218,7 +218,8 @@
 				"keyword.codetag",
 			],
 			"settings": {
-				"foreground": "#ff66a8"
+				"foreground": "#ff78b2",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -325,7 +326,8 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#acfcff"
+				"foreground": "#ff9878"
+				// "foreground": "#acfcff"
 			}
 		},
 		{
@@ -403,7 +405,8 @@
 				// "support.type.sys-types"
 			],
 			"settings": {
-				"foreground": "#ff7066"
+				"foreground": "#ff5975"
+				// "foreground": "#ff7066"
 			}
 		},
 		{
@@ -554,6 +557,7 @@
 			],
 			"settings": {
 				"foreground": "#eb89ff"
+				// "foreground": "#C792EA"
 			}
 		},
 		{
